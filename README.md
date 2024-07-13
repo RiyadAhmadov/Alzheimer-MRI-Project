@@ -1,4 +1,4 @@
-# Alzheimer-MRI-Project
+# Alzheimer MRI Project
 !['Alzheimer-MRI-Project'](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-023-50631-1/MediaObjects/41598_2023_50631_Fig8_HTML.jpg)
 =====================================
 
